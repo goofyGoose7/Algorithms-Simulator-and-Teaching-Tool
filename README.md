@@ -14,7 +14,7 @@ It also has a **quiz section** that tests you on these.
 ## 👩‍💻 Overview
 Most of the marks do come from the documentation, mine ended up being over 600 pages long (yes google docs was about to kill me).
 Extensive sections on design, development and testing.
-If you were to run it, run the main file (NEA_main.py) to start the program.
+If you were to run it, run the main file (NEA_main_file.py) to start the program.
 
 ---
 
